@@ -46,5 +46,5 @@ comience leyendo la cantidad de dinero depositada en la cuenta de ahorros. Calcu
 cantidad de ahorros tras el primer, segundo y tercer años. Redondear cada cantidad a dos decimales. Ejemplo
 de ejecución para una cantidad de dinero depositada de 12896
 
-
+![Texto alternativo de la imagen](./img/img2.png)
 
