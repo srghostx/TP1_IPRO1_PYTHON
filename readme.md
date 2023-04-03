@@ -46,5 +46,18 @@ comience leyendo la cantidad de dinero depositada en la cuenta de ahorros. Calcu
 cantidad de ahorros tras el primer, segundo y tercer años. Redondear cada cantidad a dos decimales. Ejemplo
 de ejecución para una cantidad de dinero depositada de 12896
 
+![Texto alternativo de la imagen](./img/img2.png)
+
+#__------------------------------------------------------------------------------------
+
+4. Calcule el perímetro y la superficie de un rectángulo solicitando al usuario la longitud de sus lados.
+
+5. Dados los catetos de un triángulo rectángulo, calcular su hipotenusa.
+
+6. Solicite el ingreso de una cantidad de pesos Argentinos, dar su equivalente en dólares y en euros. Se sabe que 1 dólar = 202,30 pesos y 1 euro = 214,30 pesos (formatee los resultados a 3 decimales).
+
+7. Solicite el valor de un ángulo en Radianes conviértalo a grados Sexagesimales y luego a Centesimales. Muestre los resultados en pantalla. Fórmula de conversiones: sexadecimal = valorEnRadian * 180 / Pi, centesimal = valorEnRadian * 200 / Pi
+
+8. Determine la distancia entre dos puntos en el espacio. Punto 1: (x1, y1, z1) y Punto 2: (x2, y2, z2).
 
 
