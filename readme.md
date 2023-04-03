@@ -36,3 +36,5 @@ print(n + " entre " + m + " da un cociente " + str(int(n) // int(m)) + " y un re
 #-------------------------------------------------------------------------------
 
 2. Resuelva y muestre el valor y el tipo de las siguientes expresiones aritméticas y muestre los valores resultantes para `x`, `y` y `z`, pruebe con valores enteros para las variables de entrada:
+![Texto alternativo de la imagen](./img/img1.jpg)
+
