@@ -38,3 +38,13 @@ print(n + " entre " + m + " da un cociente " + str(int(n) // int(m)) + " y un re
 2. Resuelva y muestre el valor y el tipo de las siguientes expresiones aritméticas y muestre los valores resultantes para `x`, `y` y `z`, pruebe con valores enteros para las variables de entrada:
 ![Texto alternativo de la imagen](./img/img1.png)
 
+#------------------------------------------------------------------------------------
+
+3. Tienes una nueva cuenta de caja de ahorros que te ofrece el 4% de interés al año. Estos ahorros debido a
+intereses, que no se cobran hasta finales de año, se te añaden al final del período. Escribir un algoritmo que
+comience leyendo la cantidad de dinero depositada en la cuenta de ahorros. Calcular y mostrar por pantalla la
+cantidad de ahorros tras el primer, segundo y tercer años. Redondear cada cantidad a dos decimales. Ejemplo
+de ejecución para una cantidad de dinero depositada de 12896
+
+
+
