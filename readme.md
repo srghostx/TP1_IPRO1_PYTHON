@@ -60,4 +60,9 @@ de ejecución para una cantidad de dinero depositada de 12896
 
 8. Determine la distancia entre dos puntos en el espacio. Punto 1: (x1, y1, z1) y Punto 2: (x2, y2, z2).
 
+![Texto alternativo de la imagen](./img/img3.png)
+
+#-----------------------------------------------------------------------------------
+
+9. Diseñar un programa que permita calcular el índice de masa corporal de una persona.
 
